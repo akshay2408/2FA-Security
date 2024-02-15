@@ -1,0 +1,33 @@
+errors:
+  invalid_credentials: "Invalid email or password"
+  user_not_found: "User not found."
+  invalid_password: "Invalid Password"
+  invalid_otp: "Invalid OTP. Please try again."
+  already_registered: The email address provided is already registered.
+  password_not_macth: "Passwords do not match."
+  invalid_link: "Invalid verification link."
+  new_password_not_match: "New password and confirm password do not match."
+
+
+success:
+  login_success: "Login successful."
+  activation_link_sent: "Activation link sent. Please activate your account before logging in."
+  verify_otp_success: "OTP verification successful. User confirmed."
+  request_change_2fa_success: "Request for changing 2FA OTP has been sent. Please check your email and verify the OTP to enable/disable 2FA."
+  updated_2fa: "Two-factor authentication updated successfully."
+  login_2fa_require: "Two-factor authentication enabled. OTP verification required."
+  activation_sent: "Activation link sent. Please activate your account before logging in."
+  email_already_verified: "Email already verified."
+  email_verified: "Email verified successfully!"
+  password_reset: "Password reset successful."
+
+
+mail:
+  reset_password: "Please reset your password by clicking the following link:"
+  here_otp_2fa: "Here is your OTP for 2FA Enable/Disable verification: "
+  here_otp: "Here is your OTP for verification: "
+  active: "Please verify your account by clicking the following link:"
+  otp_varification: "OTP Verification"
+  email_varification: "Email Verification"
+  reset_password: "Reset Password"
+  
